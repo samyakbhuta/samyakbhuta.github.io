@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samyak Bhuta</title>
+    <link>http://samyakbhuta.com/</link>
+    <description>Recent content on Samyak Bhuta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Jan 2018 20:01:29 +0530</lastBuildDate>
+    
+	<atom:link href="http://samyakbhuta.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rose, Strawberry</title>
+      <link>http://samyakbhuta.com/post/rose-strawberry/</link>
+      <pubDate>Sun, 28 Jan 2018 20:01:29 +0530</pubDate>
+      
+      <guid>http://samyakbhuta.com/post/rose-strawberry/</guid>
+      <description> Rose, stawberry
+Bun, maska and adarak
+Many words, one love
+ </description>
+    </item>
+    
+    <item>
+      <title>The Blue (Border)</title>
+      <link>http://samyakbhuta.com/post/the-blue-border/</link>
+      <pubDate>Sun, 28 Jan 2018 19:58:41 +0530</pubDate>
+      
+      <guid>http://samyakbhuta.com/post/the-blue-border/</guid>
+      <description> The blue (border)
+The faded yellow trapestry
+So far
+ </description>
+    </item>
+    
+    <item>
+      <title>Men Singing the Song</title>
+      <link>http://samyakbhuta.com/post/men-singing-the-song/</link>
+      <pubDate>Sun, 28 Jan 2018 19:32:18 +0530</pubDate>
+      
+      <guid>http://samyakbhuta.com/post/men-singing-the-song/</guid>
+      <description> Men singing the song
+Reaps of the tough plough
+Fields of folklore
+ </description>
+    </item>
+    
+    <item>
+      <title>Chorus in the Rhyme</title>
+      <link>http://samyakbhuta.com/post/chorus-in-the-rhyme/</link>
+      <pubDate>Sun, 28 Jan 2018 19:27:17 +0530</pubDate>
+      
+      <guid>http://samyakbhuta.com/post/chorus-in-the-rhyme/</guid>
+      <description> Chorus in the rhyme
+On a different air
+Enthusiasm treads
+ </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://samyakbhuta.com/about/</link>
+      <pubDate>Sun, 28 Jan 2018 18:25:06 +0530</pubDate>
+      
+      <guid>http://samyakbhuta.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://samyakbhuta.com/resume/</link>
+      <pubDate>Sun, 28 Jan 2018 18:19:57 +0530</pubDate>
+      
+      <guid>http://samyakbhuta.com/resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
